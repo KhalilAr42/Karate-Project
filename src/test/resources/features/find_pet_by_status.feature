@@ -1,3 +1,4 @@
+@APIFindPetByStatus
 Feature: Find pets by status
 
   Scenario: Test if the API return pets based on a status
